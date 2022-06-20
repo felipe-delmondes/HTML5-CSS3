@@ -3,9 +3,12 @@
 # Sumário
 
 <details> <summary>Items</summary>
+  
 - [Versões](#-Versões)
-- [Tecnologias Empregadas](#-Tecnologias Empregadas)
-- [About Me](#-About me)
+  
+- [Tecnologias Empregadas](#-Tecnologias-Empregadas)
+  
+- [About Me](#-About-me)
 
 
 </details>
